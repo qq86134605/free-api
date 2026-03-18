@@ -23,15 +23,15 @@ Free API is a public, no-cost API service compatible with the OpenAI API format.
 
 ## Supported Models ([Status Page](https://status.good.hidns.vip))
 
-| Model | Description |
-|------|------|
-| gpt5 | Recommended for chat, vision, and tool use |
-| grok4 | Best suited for image generation, with fewer conversation restrictions |
-| qwen3.5 | Tongyi Qianwen |
-| glm5 | Zhipu GLM |
-| k2.5 | Kimi |
-| minimax-m2.5 | MiniMax |
-| deepseek-v3.2 | DeepSeek |
+| Model | Model ID | Description |
+|------|---------|------|
+| GPT | gpt-5.4 | Recommended for chat, vision, and tool use |
+| Grok | grok-4.1-fast | Best suited for image generation, with fewer conversation restrictions |
+| Qwen | qwen3.5-flash | Tongyi Qianwen |
+| GLM | z-ai/glm5 | Zhipu GLM |
+| Kimi | moonshotai/kimi-k2.5 | Kimi |
+| MiniMax | minimaxai/minimax-m2.5 | MiniMax |
+| DeepSeek | deepseek-ai/deepseek-v3.2 | DeepSeek |
 
 > Update: `gpt-5.4` and `gpt-5.3-codex` are available again and can be used directly.
 

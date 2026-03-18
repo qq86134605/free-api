@@ -24,15 +24,15 @@
 
 ## 支持的模型（[模型状态页面](https://status.good.hidns.vip)）
 
-| 模型 | 说明 |
-|------|------|
-| gpt5 | 对话、识图、工具，推荐使用 |
-| grok4 | 生图首选，对话内容限制较少 |
-| qwen3.5 | 通义千问 |
-| glm5 | 智谱 GLM |
-| k2.5 | Kimi |
-| minimax-m2.5 | MiniMax |
-| deepseek-v3.2 | DeepSeek |
+| 模型名 | 模型ID示例 | 说明 |
+|------|---------|------|
+| GPT | gpt-5.4 | 对话、识图、工具，推荐使用 |
+| Grok | grok-4.1-fast | 生图首选，对话内容限制较少 |
+| Qwen | qwen3.5-flash | 通义千问 |
+| GLM | z-ai/glm5 | 智谱 GLM |
+| Kimi | moonshotai/kimi-k2.5 | Kimi |
+| MiniMax | minimaxai/minimax-m2.5 | MiniMax |
+| DeepSeek | deepseek-ai/deepseek-v3.2 | DeepSeek |
 
 > 模型变更：`gpt-5.4` 和 `gpt-5.3-codex` 已重新上线，可直接使用。
 
