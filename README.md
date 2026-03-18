@@ -1,5 +1,7 @@
 # Free API - 免费 OpenAI 兼容 API
 
+[中文](README.md) | [English](README_EN.md)
+
 这是一个免费提供的、兼容 OpenAI API 格式的大模型接口服务。
 
 ## 快速入口
